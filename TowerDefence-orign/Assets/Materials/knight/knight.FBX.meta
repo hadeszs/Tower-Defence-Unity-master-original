@@ -1,0 +1,2175 @@
+fileFormatVersion: 2
+guid: 06e9ecc22414e204f9d137142cf5901f
+timeCreated: 1445716503
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 1KnightHand
+    100002: _M3_Anim_Data
+    100004: Bone HorseBONE_ABDOMEN
+    100006: Bone HorseBONE_ABDOMEN01
+    100008: Bone HorseBONE_CHEST
+    100010: Bone HorseBONE_CHEST01
+    100012: Bone HorseBONE_HEAD
+    100014: Bone HorseBONE_HEAD01
+    100016: Bone HorseBone_Hoof_Front_L
+    100018: Bone HorseBone_Hoof_Front_L01
+    100020: Bone HorseBone_Hoof_Front_R
+    100022: Bone HorseBone_Hoof_Front_R01
+    100024: Bone HorseBone_Hoof_Rear_L
+    100026: Bone HorseBone_Hoof_Rear_L01
+    100028: Bone HorseBone_Hoof_Rear_R
+    100030: Bone HorseBone_Hoof_Rear_R01
+    100032: Bone HorseBone_Leg1_Front_L
+    100034: Bone HorseBone_Leg1_Front_L01
+    100036: Bone HorseBone_Leg1_Front_R
+    100038: Bone HorseBone_Leg1_Front_R01
+    100040: Bone HorseBone_Leg1_Rear_L
+    100042: Bone HorseBone_Leg1_Rear_L01
+    100044: Bone HorseBone_Leg1_Rear_R
+    100046: Bone HorseBone_Leg1_Rear_R01
+    100048: Bone HorseBone_Leg2_Front_L
+    100050: Bone HorseBone_Leg2_Front_L01
+    100052: Bone HorseBone_Leg2_Front_R
+    100054: Bone HorseBone_Leg2_Front_R01
+    100056: Bone HorseBone_Leg2_Rear_L
+    100058: Bone HorseBone_Leg2_Rear_L01
+    100060: Bone HorseBone_Leg2_Rear_R
+    100062: Bone HorseBone_Leg2_Rear_R01
+    100064: Bone HorseBone_Leg3_Front_L\
+    100066: Bone HorseBone_Leg3_Front_L\01
+    100068: Bone HorseBone_Leg3_Front_R
+    100070: Bone HorseBone_Leg3_Front_R01
+    100072: Bone HorseBone_Leg3_Rear_L
+    100074: Bone HorseBone_Leg3_Rear_L01
+    100076: Bone HorseBone_Leg3_Rear_R
+    100078: Bone HorseBone_Leg3_Rear_R01
+    100080: Bone HorseBONE_NECK
+    100082: Bone HorseBONE_NECK01
+    100084: Bone HorseBONE_PELVIS
+    100086: Bone HorseBONE_PELVIS01
+    100088: Bone HorseBONE_TAIL02
+    100090: Bone HorseBONE_TAIL1
+    100092: Bone_Arm1_L
+    100094: 'Bone_Arm1_R '
+    100096: Bone_Arm2_L
+    100098: Bone_Arm2_R
+    100100: Bone_Chest
+    100102: 'Bone_Hand_R '
+    100104: Bone_Hand_R 01
+    100106: Bone_Head
+    100108: Bone_Leg2_L
+    100110: Bone_Leg2_R
+    100112: Bone_Root
+    100114: Bone_T-Bone_Arm1_L
+    100116: Bone_T-Bone_Arm1_R
+    100118: Bone_T-Bone_Arm2_L
+    100120: Bone_T-Bone_Arm2_R
+    100122: Bone_T-Bone_Chest
+    100124: 'Bone_T-Bone_Hand_R '
+    100126: Bone_T-Bone_Hand_R 01
+    100128: Bone_T-Bone_Head
+    100130: Bone_T-Bone_Leg2_L
+    100132: Bone_T-Bone_Leg2_R
+    100134: Bone_T-Bone_Root
+    100136: Box01
+    100138: Box09
+    100140: Chest Mount Left Ref
+    100142: Chest Mount Rear Ref
+    100144: Chest Mount Ref
+    100146: Chest Mount Right Ref
+    100148: Chest Ref
+    100150: Death Portrait
+    100152: Dummy08
+    100154: Eyebrows
+    100156: 'Eyes '
+    100158: Foot Left Rear Ref
+    100160: 'Foot Left Ref '
+    100162: Foot Right Rear Ref
+    100164: 'Foot Right Ref '
+    100166: gutz00
+    100168: gutz08
+    100170: Hair Line
+    100172: 'Hand Left Ref '
+    100174: 'Hand Right Ref '
+    100176: Head - Ref
+    100178: Head Mount - Ref
+    100180: Jaw
+    100182: //RootNode
+    100184: Knight1
+    100186: Knight2
+    100188: Knight3
+    100190: Knight4
+    100192: Knight5
+    100194: Knight6
+    100196: m3bone_root
+    100198: Mesh01
+    100200: Mesh02
+    100202: Mesh04
+    100204: Mesh05
+    100206: Mesh06
+    100208: Mesh07
+    100210: Mesh08
+    100212: Mesh10
+    100214: Mesh11
+    100216: Mesh12
+    100218: Mesh13
+    100220: Mesh14
+    100222: Mesh15
+    100224: Mesh16
+    100226: Mesh17
+    100228: Mesh18
+    100230: Mesh19
+    100232: Mesh20
+    100234: Mesh35
+    100236: Mesh37
+    100238: Mesh38
+    100240: Mesh41
+    100242: Mesh67
+    100244: Mesh68
+    100246: Mesh69
+    100248: Mesh70
+    100250: Mesh71
+    100252: Mesh72
+    100254: Mesh74
+    100256: Mesh75
+    100258: Mustache
+    100260: Nose
+    100262: Object03
+    100264: Object08
+    100266: Object09
+    100268: Object11
+    100270: Object12
+    100272: Object13
+    100274: Object14
+    100276: Object15
+    100278: Object16
+    100280: Object17
+    100282: Object18
+    100284: Object19
+    100286: Object20
+    100288: Object21
+    100290: Object22
+    100292: Object23
+    100294: Object24
+    100296: Object25
+    100298: Object26
+    100300: Object27
+    100302: Object50
+    100304: Object53
+    100306: 'Origin Ref '
+    100308: 'OverHead Ref '
+    100310: Portrait Head
+    100312: Pupils
+    100314: T-1KnightHand
+    100316: T-Box02
+    100318: T-Box08
+    100320: T-Mesh08
+    100322: T-Mesh37
+    100324: T-Mesh38
+    100326: T-Mesh41
+    100328: T-Object11
+    100330: T-Object12
+    100332: T-Object13
+    100334: T-Object14
+    100336: T-Object15
+    100338: T-Object16
+    100340: T-Object17
+    100342: T-Object19
+    100344: T-Object20
+    100346: T-Object21
+    100348: T-Object22
+    100350: T-Object23
+    100352: T_Mesh02
+    100354: T_Mesh04
+    100356: T_Mesh32
+    100358: T_Mesh36
+    100360: T_Mesh39
+    100362: T_Mesh40
+    100364: T_Mesh41
+    100366: T_Mesh42
+    100368: T_Mesh44
+    100370: T_Mesh45
+    100372: T_Mesh46
+    100374: T_Mesh47
+    100376: T_Object01
+    100378: T_Object06
+    100380: T_Object08
+    100382: T_Object10
+    100384: T_Object11
+    100386: T_Object13
+    100388: T_Object14
+    100390: T_Object15
+    100392: T_Object17
+    100394: T_Object18
+    100396: T_Object19
+    100398: T_Object20
+    100400: T_Object23
+    100402: T_Object24
+    100404: T_Object25
+    100406: T_Object26
+    100408: vObject05
+    100410: vObject18
+    100412: vObject19
+    100414: Weapon Left Ref
+    100416: Weapon Right Ref
+    400000: 1KnightHand
+    400002: _M3_Anim_Data
+    400004: Bone HorseBONE_ABDOMEN
+    400006: Bone HorseBONE_ABDOMEN01
+    400008: Bone HorseBONE_CHEST
+    400010: Bone HorseBONE_CHEST01
+    400012: Bone HorseBONE_HEAD
+    400014: Bone HorseBONE_HEAD01
+    400016: Bone HorseBone_Hoof_Front_L
+    400018: Bone HorseBone_Hoof_Front_L01
+    400020: Bone HorseBone_Hoof_Front_R
+    400022: Bone HorseBone_Hoof_Front_R01
+    400024: Bone HorseBone_Hoof_Rear_L
+    400026: Bone HorseBone_Hoof_Rear_L01
+    400028: Bone HorseBone_Hoof_Rear_R
+    400030: Bone HorseBone_Hoof_Rear_R01
+    400032: Bone HorseBone_Leg1_Front_L
+    400034: Bone HorseBone_Leg1_Front_L01
+    400036: Bone HorseBone_Leg1_Front_R
+    400038: Bone HorseBone_Leg1_Front_R01
+    400040: Bone HorseBone_Leg1_Rear_L
+    400042: Bone HorseBone_Leg1_Rear_L01
+    400044: Bone HorseBone_Leg1_Rear_R
+    400046: Bone HorseBone_Leg1_Rear_R01
+    400048: Bone HorseBone_Leg2_Front_L
+    400050: Bone HorseBone_Leg2_Front_L01
+    400052: Bone HorseBone_Leg2_Front_R
+    400054: Bone HorseBone_Leg2_Front_R01
+    400056: Bone HorseBone_Leg2_Rear_L
+    400058: Bone HorseBone_Leg2_Rear_L01
+    400060: Bone HorseBone_Leg2_Rear_R
+    400062: Bone HorseBone_Leg2_Rear_R01
+    400064: Bone HorseBone_Leg3_Front_L\
+    400066: Bone HorseBone_Leg3_Front_L\01
+    400068: Bone HorseBone_Leg3_Front_R
+    400070: Bone HorseBone_Leg3_Front_R01
+    400072: Bone HorseBone_Leg3_Rear_L
+    400074: Bone HorseBone_Leg3_Rear_L01
+    400076: Bone HorseBone_Leg3_Rear_R
+    400078: Bone HorseBone_Leg3_Rear_R01
+    400080: Bone HorseBONE_NECK
+    400082: Bone HorseBONE_NECK01
+    400084: Bone HorseBONE_PELVIS
+    400086: Bone HorseBONE_PELVIS01
+    400088: Bone HorseBONE_TAIL02
+    400090: Bone HorseBONE_TAIL1
+    400092: Bone_Arm1_L
+    400094: 'Bone_Arm1_R '
+    400096: Bone_Arm2_L
+    400098: Bone_Arm2_R
+    400100: Bone_Chest
+    400102: 'Bone_Hand_R '
+    400104: Bone_Hand_R 01
+    400106: Bone_Head
+    400108: Bone_Leg2_L
+    400110: Bone_Leg2_R
+    400112: Bone_Root
+    400114: Bone_T-Bone_Arm1_L
+    400116: Bone_T-Bone_Arm1_R
+    400118: Bone_T-Bone_Arm2_L
+    400120: Bone_T-Bone_Arm2_R
+    400122: Bone_T-Bone_Chest
+    400124: 'Bone_T-Bone_Hand_R '
+    400126: Bone_T-Bone_Hand_R 01
+    400128: Bone_T-Bone_Head
+    400130: Bone_T-Bone_Leg2_L
+    400132: Bone_T-Bone_Leg2_R
+    400134: Bone_T-Bone_Root
+    400136: Box01
+    400138: Box09
+    400140: Chest Mount Left Ref
+    400142: Chest Mount Rear Ref
+    400144: Chest Mount Ref
+    400146: Chest Mount Right Ref
+    400148: Chest Ref
+    400150: Death Portrait
+    400152: Dummy08
+    400154: Eyebrows
+    400156: 'Eyes '
+    400158: Foot Left Rear Ref
+    400160: 'Foot Left Ref '
+    400162: Foot Right Rear Ref
+    400164: 'Foot Right Ref '
+    400166: gutz00
+    400168: gutz08
+    400170: Hair Line
+    400172: 'Hand Left Ref '
+    400174: 'Hand Right Ref '
+    400176: Head - Ref
+    400178: Head Mount - Ref
+    400180: Jaw
+    400182: //RootNode
+    400184: Knight1
+    400186: Knight2
+    400188: Knight3
+    400190: Knight4
+    400192: Knight5
+    400194: Knight6
+    400196: m3bone_root
+    400198: Mesh01
+    400200: Mesh02
+    400202: Mesh04
+    400204: Mesh05
+    400206: Mesh06
+    400208: Mesh07
+    400210: Mesh08
+    400212: Mesh10
+    400214: Mesh11
+    400216: Mesh12
+    400218: Mesh13
+    400220: Mesh14
+    400222: Mesh15
+    400224: Mesh16
+    400226: Mesh17
+    400228: Mesh18
+    400230: Mesh19
+    400232: Mesh20
+    400234: Mesh35
+    400236: Mesh37
+    400238: Mesh38
+    400240: Mesh41
+    400242: Mesh67
+    400244: Mesh68
+    400246: Mesh69
+    400248: Mesh70
+    400250: Mesh71
+    400252: Mesh72
+    400254: Mesh74
+    400256: Mesh75
+    400258: Mustache
+    400260: Nose
+    400262: Object03
+    400264: Object08
+    400266: Object09
+    400268: Object11
+    400270: Object12
+    400272: Object13
+    400274: Object14
+    400276: Object15
+    400278: Object16
+    400280: Object17
+    400282: Object18
+    400284: Object19
+    400286: Object20
+    400288: Object21
+    400290: Object22
+    400292: Object23
+    400294: Object24
+    400296: Object25
+    400298: Object26
+    400300: Object27
+    400302: Object50
+    400304: Object53
+    400306: 'Origin Ref '
+    400308: 'OverHead Ref '
+    400310: Portrait Head
+    400312: Pupils
+    400314: T-1KnightHand
+    400316: T-Box02
+    400318: T-Box08
+    400320: T-Mesh08
+    400322: T-Mesh37
+    400324: T-Mesh38
+    400326: T-Mesh41
+    400328: T-Object11
+    400330: T-Object12
+    400332: T-Object13
+    400334: T-Object14
+    400336: T-Object15
+    400338: T-Object16
+    400340: T-Object17
+    400342: T-Object19
+    400344: T-Object20
+    400346: T-Object21
+    400348: T-Object22
+    400350: T-Object23
+    400352: T_Mesh02
+    400354: T_Mesh04
+    400356: T_Mesh32
+    400358: T_Mesh36
+    400360: T_Mesh39
+    400362: T_Mesh40
+    400364: T_Mesh41
+    400366: T_Mesh42
+    400368: T_Mesh44
+    400370: T_Mesh45
+    400372: T_Mesh46
+    400374: T_Mesh47
+    400376: T_Object01
+    400378: T_Object06
+    400380: T_Object08
+    400382: T_Object10
+    400384: T_Object11
+    400386: T_Object13
+    400388: T_Object14
+    400390: T_Object15
+    400392: T_Object17
+    400394: T_Object18
+    400396: T_Object19
+    400398: T_Object20
+    400400: T_Object23
+    400402: T_Object24
+    400404: T_Object25
+    400406: T_Object26
+    400408: vObject05
+    400410: vObject18
+    400412: vObject19
+    400414: Weapon Left Ref
+    400416: Weapon Right Ref
+    2300000: Knight5
+    2300002: Knight6
+    3300000: Knight5
+    3300002: Knight6
+    4300000: Knight1
+    4300002: Knight2
+    4300004: Knight3
+    4300006: Knight4
+    4300008: Knight5
+    4300010: Knight6
+    7400000: Run
+    7400002: Take 0010
+    7400004: Running
+    9500000: //RootNode
+    13700000: Knight1
+    13700002: Knight2
+    13700004: Knight3
+    13700006: Knight4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Knight1
+        weight: 1
+      - path: Knight2
+        weight: 1
+      - path: Knight3
+        weight: 1
+      - path: Knight4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/Bone HorseBone_Hoof_Front_L
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/Bone HorseBone_Hoof_Front_L/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/Bone HorseBone_Hoof_Front_L/Mesh01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/T_Mesh40
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/T_Object13
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/T_Object14
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/Bone HorseBone_Hoof_Front_R
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/Bone HorseBone_Hoof_Front_R/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/Bone HorseBone_Hoof_Front_R/Mesh07
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/T_Mesh39
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/T_Object06
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/vObject05
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/Head Mount - Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/Mesh11
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/Mesh35
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/T_Object01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Box01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Mesh12
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Object03
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Chest Mount
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Chest Mount
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Chest Mount
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Mesh10
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/Bone HorseBone_Hoof_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/Bone HorseBone_Hoof_Rear_L/Mesh13
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/Bone HorseBone_Hoof_Rear_L/Mesh13/Foot
+          Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/T_Mesh36
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/T_Object15
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/T_Mesh04
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/Bone HorseBone_Hoof_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/Bone HorseBone_Hoof_Rear_R/Foot
+          Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/Bone HorseBone_Hoof_Rear_R/Mesh14
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/T_Mesh32
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/T_Object08
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Object09
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBONE_TAIL1
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBONE_TAIL1/T_Mesh02
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Chest Mount
+          Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/T_Object10
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01/Hand Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01/Object17
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01/Object17/Weapon Right Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Object23
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Object20
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /1KnightHand
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R '
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Hand Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Mesh37
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Mesh37/Mesh38
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Mesh37/Mesh38/Mesh08
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Weapon Left Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Object19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Mesh41
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Head
+          - Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Eyebrows
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Eyes '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Hair Line
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw/Mesh04
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw/Object08
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw/Object24
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh02
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh05
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh06
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh15
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh16
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh16/Mesh19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh18
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh18/Mesh17
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object25
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object25/Mesh20
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object27
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object27/Object26
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Nose
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Pupils
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Object21
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11/Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11/Bone_Leg2_R/Object12
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11/Bone_Leg2_R/Object12/Object13
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14/Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14/Bone_Leg2_L/Object15
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14/Bone_Leg2_L/Object15/Object16
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object22
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/T_Object11
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01/Bone HorseBone_Hoof_Front_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01/Bone HorseBone_Hoof_Front_L01/Mesh68
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01/T_Mesh42
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/T_Object18
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/T_Object19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01/Bone HorseBone_Hoof_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01/Bone HorseBone_Hoof_Front_R01/Mesh67
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01/T_Mesh41
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/T_Object17
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/vObject19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01/Mesh69
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01/Mesh70
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01/T_Object20
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Box09
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Mesh71
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Object50
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Mesh72
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01/Bone HorseBone_Hoof_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01/Bone HorseBone_Hoof_Rear_L01/Mesh75
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01/T_Mesh45
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/T_Object24
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/T_Mesh46
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01/Bone HorseBone_Hoof_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01/Bone HorseBone_Hoof_Rear_R01/Mesh74
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01/T_Mesh44
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/T_Object23
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Object53
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBONE_TAIL02
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBONE_TAIL02/T_Mesh47
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/T_Object25
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/T_Object26
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L/Bone_T-Bone_Hand_R
+          01
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L/Bone_T-Bone_Hand_R
+          01/T-Object17
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L/T-Object23
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/T-Object20
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R
+        weight: 1
+      - path: 'm3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R/Bone_T-Bone_Hand_R '
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R/Bone_T-Bone_Hand_R
+          /vObject18
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R/T-Object19
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/T-1KnightHand
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/T-Mesh41
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Head/Death
+          Portrait
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/T-Object21
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11/Bone_T-Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11/Bone_T-Bone_Leg2_R/T-Object12
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11/Bone_T-Bone_Leg2_R/T-Object12/T-Object13
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14/Bone_T-Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14/Bone_T-Bone_Leg2_L/T-Object15
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14/Bone_T-Bone_Leg2_L/T-Object15/T-Object16
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object22
+        weight: 1
+      - path: m3bone_root/Dummy08
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Knight5
+        weight: 1
+      - path: m3bone_root/gutz08
+        weight: 1
+      - path: m3bone_root/gutz08/Knight6
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/T-Box02
+        weight: 1
+      - path: m3bone_root/T-Box02/T-Mesh37
+        weight: 1
+      - path: m3bone_root/T-Box02/T-Mesh37/T-Mesh38
+        weight: 1
+      - path: m3bone_root/T-Box02/T-Mesh37/T-Mesh38/T-Mesh08
+        weight: 1
+      - path: m3bone_root/T-Box08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 29583
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Knight1
+        weight: 1
+      - path: Knight2
+        weight: 1
+      - path: Knight3
+        weight: 1
+      - path: Knight4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/Bone HorseBone_Hoof_Front_L
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/Bone HorseBone_Hoof_Front_L/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/Bone HorseBone_Hoof_Front_L/Mesh01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/T_Mesh40
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/T_Object13
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/T_Object14
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/Bone HorseBone_Hoof_Front_R
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/Bone HorseBone_Hoof_Front_R/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/Bone HorseBone_Hoof_Front_R/Mesh07
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/T_Mesh39
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/T_Object06
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/vObject05
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/Head Mount - Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/Mesh11
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/Mesh35
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/T_Object01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Box01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Mesh12
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Object03
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Chest Mount
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Chest Mount
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Chest Mount
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Mesh10
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/Bone HorseBone_Hoof_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/Bone HorseBone_Hoof_Rear_L/Mesh13
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/Bone HorseBone_Hoof_Rear_L/Mesh13/Foot
+          Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/T_Mesh36
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/T_Object15
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/T_Mesh04
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/Bone HorseBone_Hoof_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/Bone HorseBone_Hoof_Rear_R/Foot
+          Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/Bone HorseBone_Hoof_Rear_R/Mesh14
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/T_Mesh32
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/T_Object08
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Object09
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBONE_TAIL1
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBONE_TAIL1/T_Mesh02
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Chest Mount
+          Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/T_Object10
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01/Hand Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01/Object17
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01/Object17/Weapon Right Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Object23
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Object20
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /1KnightHand
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R '
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Hand Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Mesh37
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Mesh37/Mesh38
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Mesh37/Mesh38/Mesh08
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Weapon Left Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Object19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Mesh41
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Head
+          - Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Eyebrows
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Eyes '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Hair Line
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw/Mesh04
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw/Object08
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw/Object24
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh02
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh05
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh06
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh15
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh16
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh16/Mesh19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh18
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh18/Mesh17
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object25
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object25/Mesh20
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object27
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object27/Object26
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Nose
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Pupils
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Object21
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11/Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11/Bone_Leg2_R/Object12
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11/Bone_Leg2_R/Object12/Object13
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14/Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14/Bone_Leg2_L/Object15
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14/Bone_Leg2_L/Object15/Object16
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object22
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/T_Object11
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01/Bone HorseBone_Hoof_Front_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01/Bone HorseBone_Hoof_Front_L01/Mesh68
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01/T_Mesh42
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/T_Object18
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/T_Object19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01/Bone HorseBone_Hoof_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01/Bone HorseBone_Hoof_Front_R01/Mesh67
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01/T_Mesh41
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/T_Object17
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/vObject19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01/Mesh69
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01/Mesh70
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01/T_Object20
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Box09
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Mesh71
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Object50
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Mesh72
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01/Bone HorseBone_Hoof_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01/Bone HorseBone_Hoof_Rear_L01/Mesh75
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01/T_Mesh45
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/T_Object24
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/T_Mesh46
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01/Bone HorseBone_Hoof_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01/Bone HorseBone_Hoof_Rear_R01/Mesh74
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01/T_Mesh44
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/T_Object23
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Object53
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBONE_TAIL02
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBONE_TAIL02/T_Mesh47
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/T_Object25
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/T_Object26
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L/Bone_T-Bone_Hand_R
+          01
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L/Bone_T-Bone_Hand_R
+          01/T-Object17
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L/T-Object23
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/T-Object20
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R
+        weight: 1
+      - path: 'm3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R/Bone_T-Bone_Hand_R '
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R/Bone_T-Bone_Hand_R
+          /vObject18
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R/T-Object19
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/T-1KnightHand
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/T-Mesh41
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Head/Death
+          Portrait
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/T-Object21
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11/Bone_T-Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11/Bone_T-Bone_Leg2_R/T-Object12
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11/Bone_T-Bone_Leg2_R/T-Object12/T-Object13
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14/Bone_T-Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14/Bone_T-Bone_Leg2_L/T-Object15
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14/Bone_T-Bone_Leg2_L/T-Object15/T-Object16
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object22
+        weight: 1
+      - path: m3bone_root/Dummy08
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Knight5
+        weight: 1
+      - path: m3bone_root/gutz08
+        weight: 1
+      - path: m3bone_root/gutz08/Knight6
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/T-Box02
+        weight: 1
+      - path: m3bone_root/T-Box02/T-Mesh37
+        weight: 1
+      - path: m3bone_root/T-Box02/T-Mesh37/T-Mesh38
+        weight: 1
+      - path: m3bone_root/T-Box02/T-Mesh37/T-Mesh38/T-Mesh08
+        weight: 1
+      - path: m3bone_root/T-Box08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Running
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Knight1
+        weight: 1
+      - path: Knight2
+        weight: 1
+      - path: Knight3
+        weight: 1
+      - path: Knight4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/Bone HorseBone_Hoof_Front_L
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/Bone HorseBone_Hoof_Front_L/Foot
+          Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/Bone HorseBone_Hoof_Front_L/Mesh01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/Bone HorseBone_Leg3_Front_L\/T_Mesh40
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/Bone
+          HorseBone_Leg2_Front_L/T_Object13
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_L/T_Object14
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/Bone HorseBone_Hoof_Front_R
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/Bone HorseBone_Hoof_Front_R/Foot
+          Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/Bone HorseBone_Hoof_Front_R/Mesh07
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/Bone HorseBone_Leg3_Front_R/T_Mesh39
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/Bone
+          HorseBone_Leg2_Front_R/T_Object06
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBone_Leg1_Front_R/vObject05
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/Head Mount - Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/Mesh11
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/Mesh35
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Bone
+          HorseBONE_HEAD/T_Object01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Box01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Mesh12
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Bone HorseBONE_NECK/Object03
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Chest Mount
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Chest Mount
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Chest Mount
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_CHEST/Mesh10
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/Bone HorseBone_Hoof_Rear_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/Bone HorseBone_Hoof_Rear_L/Mesh13
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/Bone HorseBone_Hoof_Rear_L/Mesh13/Foot
+          Left Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/Bone HorseBone_Leg3_Rear_L/T_Mesh36
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/Bone
+          HorseBone_Leg2_Rear_L/T_Object15
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_L/T_Mesh04
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/Bone HorseBone_Hoof_Rear_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/Bone HorseBone_Hoof_Rear_R/Foot
+          Right Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/Bone HorseBone_Hoof_Rear_R/Mesh14
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/Bone HorseBone_Leg3_Rear_R/T_Mesh32
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Bone
+          HorseBone_Leg2_Rear_R/T_Object08
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBone_Leg1_Rear_R/Object09
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBONE_TAIL1
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Bone HorseBONE_TAIL1/T_Mesh02
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/Chest Mount
+          Rear Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone HorseBONE_PELVIS/T_Object10
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01/Hand Left Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01/Object17
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Bone_Hand_R
+          01/Object17/Weapon Right Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Bone_Arm2_L/Object23
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_L/Object20
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /1KnightHand
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R '
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Hand Right Ref '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Mesh37
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Mesh37/Mesh38
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Mesh37/Mesh38/Mesh08
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Bone_Hand_R /Object18/Weapon Left Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Bone_Arm2_R/Object19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Arm1_R
+          /Mesh41
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Head
+          - Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Eyebrows
+        weight: 1
+      - path: 'm3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Eyes '
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Hair Line
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw/Mesh04
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw/Object08
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Jaw/Object24
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh02
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh05
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh06
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mesh15
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh16
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh16/Mesh19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh18
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Mesh18/Mesh17
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object25
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object25/Mesh20
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object27
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Mustache/Object27/Object26
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Nose
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Bone_Head/Portrait
+          Head/Pupils
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Bone_Chest/Object21
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11/Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11/Bone_Leg2_R/Object12
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object11/Bone_Leg2_R/Object12/Object13
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14/Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14/Bone_Leg2_L/Object15
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object14/Bone_Leg2_L/Object15/Object16
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/Bone_Root/Object22
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN/T_Object11
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01/Bone HorseBone_Hoof_Front_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01/Bone HorseBone_Hoof_Front_L01/Mesh68
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/Bone HorseBone_Leg3_Front_L\01/T_Mesh42
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/Bone
+          HorseBone_Leg2_Front_L01/T_Object18
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_L01/T_Object19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01/Bone HorseBone_Hoof_Front_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01/Bone HorseBone_Hoof_Front_R01/Mesh67
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/Bone HorseBone_Leg3_Front_R01/T_Mesh41
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/Bone
+          HorseBone_Leg2_Front_R01/T_Object17
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBone_Leg1_Front_R01/vObject19
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01/Mesh69
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01/Mesh70
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Bone
+          HorseBONE_HEAD01/T_Object20
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Box09
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Mesh71
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Bone HorseBONE_NECK01/Object50
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_CHEST01/Mesh72
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01/Bone HorseBone_Hoof_Rear_L01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01/Bone HorseBone_Hoof_Rear_L01/Mesh75
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/Bone HorseBone_Leg3_Rear_L01/T_Mesh45
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/Bone
+          HorseBone_Leg2_Rear_L01/T_Object24
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_L01/T_Mesh46
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01/Bone HorseBone_Hoof_Rear_R01
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01/Bone HorseBone_Hoof_Rear_R01/Mesh74
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/Bone HorseBone_Leg3_Rear_R01/T_Mesh44
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Bone
+          HorseBone_Leg2_Rear_R01/T_Object23
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBone_Leg1_Rear_R01/Object53
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBONE_TAIL02
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/Bone HorseBONE_TAIL02/T_Mesh47
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/Bone HorseBONE_PELVIS01/T_Object25
+        weight: 1
+      - path: m3bone_root/Bone HorseBONE_ABDOMEN01/T_Object26
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L/Bone_T-Bone_Hand_R
+          01
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L/Bone_T-Bone_Hand_R
+          01/T-Object17
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/Bone_T-Bone_Arm2_L/T-Object23
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_L/T-Object20
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R
+        weight: 1
+      - path: 'm3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R/Bone_T-Bone_Hand_R '
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R/Bone_T-Bone_Hand_R
+          /vObject18
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/Bone_T-Bone_Arm2_R/T-Object19
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/T-1KnightHand
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Arm1_R/T-Mesh41
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/Bone_T-Bone_Head/Death
+          Portrait
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/Bone_T-Bone_Chest/T-Object21
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11/Bone_T-Bone_Leg2_R
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11/Bone_T-Bone_Leg2_R/T-Object12
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object11/Bone_T-Bone_Leg2_R/T-Object12/T-Object13
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14/Bone_T-Bone_Leg2_L
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14/Bone_T-Bone_Leg2_L/T-Object15
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object14/Bone_T-Bone_Leg2_L/T-Object15/T-Object16
+        weight: 1
+      - path: m3bone_root/Bone_T-Bone_Root/T-Object22
+        weight: 1
+      - path: m3bone_root/Dummy08
+        weight: 1
+      - path: m3bone_root/gutz00
+        weight: 1
+      - path: m3bone_root/gutz00/Knight5
+        weight: 1
+      - path: m3bone_root/gutz08
+        weight: 1
+      - path: m3bone_root/gutz08/Knight6
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/T-Box02
+        weight: 1
+      - path: m3bone_root/T-Box02/T-Mesh37
+        weight: 1
+      - path: m3bone_root/T-Box02/T-Mesh37/T-Mesh38
+        weight: 1
+      - path: m3bone_root/T-Box02/T-Mesh37/T-Mesh38/T-Mesh08
+        weight: 1
+      - path: m3bone_root/T-Box08
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

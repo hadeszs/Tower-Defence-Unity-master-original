@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: c359de344e8a5b740a441a19dde511ef
+timeCreated: 1446918993
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: body
+    100004: Chest Ref
+    100006: Cylinder01
+    100008: Cylinder10
+    100010: Cylinder10e
+    100012: Cylinder21e
+    100014: Cylinder34
+    100016: Cylinder38
+    100018: Cylinder42
+    100020: Cylinder43
+    100022: Foot Left Ref
+    100024: 'Foot Right Ref '
+    100026: glowboom
+    100028: glowboom01
+    100030: glowboom03
+    100032: glowboom05
+    100034: glowboom06
+    100036: Head Ref
+    100038: m3bone_root
+    100040: Mesh02
+    100042: Mesh06
+    100044: Mesh08
+    100046: Mesh11
+    100048: Mesh12
+    100050: Mesh13
+    100052: Mesh14
+    100054: Mesh16
+    100056: Mesh19
+    100058: 'Origin Ref '
+    100060: 'OverHead Ref '
+    100062: Plane01
+    100064: Plane02
+    100066: Plane04
+    100068: Plane07
+    100070: Plane09
+    100072: Plane10
+    100074: Plane11
+    100076: Plane12
+    100078: Plane13
+    100080: Plane14
+    100082: Sprite First Ref
+    100084: Sprite Second Ref
+    100086: Sprite Third Ref
+    100088: //RootNode
+    100090: teamglow
+    100092: WarWagon1
+    100094: WarWagon2
+    100096: WarWagon3
+    100098: WarWagon4
+    100100: WarWagon5
+    100102: WarWagon6
+    400000: _M3_Anim_Data
+    400002: body
+    400004: Chest Ref
+    400006: Cylinder01
+    400008: Cylinder10
+    400010: Cylinder10e
+    400012: Cylinder21e
+    400014: Cylinder34
+    400016: Cylinder38
+    400018: Cylinder42
+    400020: Cylinder43
+    400022: Foot Left Ref
+    400024: 'Foot Right Ref '
+    400026: glowboom
+    400028: glowboom01
+    400030: glowboom03
+    400032: glowboom05
+    400034: glowboom06
+    400036: Head Ref
+    400038: m3bone_root
+    400040: Mesh02
+    400042: Mesh06
+    400044: Mesh08
+    400046: Mesh11
+    400048: Mesh12
+    400050: Mesh13
+    400052: Mesh14
+    400054: Mesh16
+    400056: Mesh19
+    400058: 'Origin Ref '
+    400060: 'OverHead Ref '
+    400062: Plane01
+    400064: Plane02
+    400066: Plane04
+    400068: Plane07
+    400070: Plane09
+    400072: Plane10
+    400074: Plane11
+    400076: Plane12
+    400078: Plane13
+    400080: Plane14
+    400082: Sprite First Ref
+    400084: Sprite Second Ref
+    400086: Sprite Third Ref
+    400088: //RootNode
+    400090: teamglow
+    400092: WarWagon1
+    400094: WarWagon2
+    400096: WarWagon3
+    400098: WarWagon4
+    400100: WarWagon5
+    400102: WarWagon6
+    2300000: WarWagon6
+    3300000: WarWagon6
+    4300000: WarWagon1
+    4300002: WarWagon2
+    4300004: WarWagon3
+    4300006: WarWagon4
+    4300008: WarWagon5
+    4300010: WarWagon6
+    7400000: Run
+    7400002: Shoot
+    7400004: Death
+    7400006: Take 0010
+    9500000: //RootNode
+    13700000: WarWagon1
+    13700002: WarWagon2
+    13700004: WarWagon3
+    13700006: WarWagon4
+    13700008: WarWagon5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/body
+        weight: 1
+      - path: m3bone_root/body/Chest Ref
+        weight: 1
+      - path: m3bone_root/body/Cylinder10
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Cylinder01
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane02
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane10
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane11
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane12
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane13
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane14
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Plane01
+        weight: 1
+      - path: m3bone_root/body/Cylinder21e
+        weight: 1
+      - path: m3bone_root/body/Cylinder34
+        weight: 1
+      - path: m3bone_root/body/Cylinder38
+        weight: 1
+      - path: m3bone_root/body/Cylinder42
+        weight: 1
+      - path: m3bone_root/body/Cylinder43
+        weight: 1
+      - path: m3bone_root/body/Head Ref
+        weight: 1
+      - path: m3bone_root/body/Mesh02
+        weight: 1
+      - path: m3bone_root/body/Mesh06
+        weight: 1
+      - path: m3bone_root/body/Mesh08
+        weight: 1
+      - path: m3bone_root/body/Mesh11
+        weight: 1
+      - path: m3bone_root/body/Mesh12
+        weight: 1
+      - path: m3bone_root/body/Mesh13
+        weight: 1
+      - path: m3bone_root/body/Mesh14
+        weight: 1
+      - path: m3bone_root/body/Mesh16
+        weight: 1
+      - path: m3bone_root/body/Mesh19
+        weight: 1
+      - path: m3bone_root/body/Plane04
+        weight: 1
+      - path: m3bone_root/body/Sprite First Ref
+        weight: 1
+      - path: m3bone_root/body/Sprite Second Ref
+        weight: 1
+      - path: m3bone_root/body/Sprite Third Ref
+        weight: 1
+      - path: m3bone_root/Foot Left Ref
+        weight: 1
+      - path: 'm3bone_root/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/glowboom
+        weight: 1
+      - path: m3bone_root/glowboom01
+        weight: 1
+      - path: m3bone_root/glowboom03
+        weight: 1
+      - path: m3bone_root/glowboom05
+        weight: 1
+      - path: m3bone_root/glowboom06
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/Plane07
+        weight: 1
+      - path: m3bone_root/Plane09
+        weight: 1
+      - path: m3bone_root/teamglow
+        weight: 1
+      - path: m3bone_root/teamglow/WarWagon6
+        weight: 1
+      - path: WarWagon1
+        weight: 1
+      - path: WarWagon2
+        weight: 1
+      - path: WarWagon3
+        weight: 1
+      - path: WarWagon4
+        weight: 1
+      - path: WarWagon5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Take 001
+      firstFrame: 435
+      lastFrame: 465
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/body
+        weight: 1
+      - path: m3bone_root/body/Chest Ref
+        weight: 1
+      - path: m3bone_root/body/Cylinder10
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Cylinder01
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane02
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane10
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane11
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane12
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane13
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane14
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Plane01
+        weight: 1
+      - path: m3bone_root/body/Cylinder21e
+        weight: 1
+      - path: m3bone_root/body/Cylinder34
+        weight: 1
+      - path: m3bone_root/body/Cylinder38
+        weight: 1
+      - path: m3bone_root/body/Cylinder42
+        weight: 1
+      - path: m3bone_root/body/Cylinder43
+        weight: 1
+      - path: m3bone_root/body/Head Ref
+        weight: 1
+      - path: m3bone_root/body/Mesh02
+        weight: 1
+      - path: m3bone_root/body/Mesh06
+        weight: 1
+      - path: m3bone_root/body/Mesh08
+        weight: 1
+      - path: m3bone_root/body/Mesh11
+        weight: 1
+      - path: m3bone_root/body/Mesh12
+        weight: 1
+      - path: m3bone_root/body/Mesh13
+        weight: 1
+      - path: m3bone_root/body/Mesh14
+        weight: 1
+      - path: m3bone_root/body/Mesh16
+        weight: 1
+      - path: m3bone_root/body/Mesh19
+        weight: 1
+      - path: m3bone_root/body/Plane04
+        weight: 1
+      - path: m3bone_root/body/Sprite First Ref
+        weight: 1
+      - path: m3bone_root/body/Sprite Second Ref
+        weight: 1
+      - path: m3bone_root/body/Sprite Third Ref
+        weight: 1
+      - path: m3bone_root/Foot Left Ref
+        weight: 1
+      - path: 'm3bone_root/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/glowboom
+        weight: 1
+      - path: m3bone_root/glowboom01
+        weight: 1
+      - path: m3bone_root/glowboom03
+        weight: 1
+      - path: m3bone_root/glowboom05
+        weight: 1
+      - path: m3bone_root/glowboom06
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/Plane07
+        weight: 1
+      - path: m3bone_root/Plane09
+        weight: 1
+      - path: m3bone_root/teamglow
+        weight: 1
+      - path: m3bone_root/teamglow/WarWagon6
+        weight: 1
+      - path: WarWagon1
+        weight: 1
+      - path: WarWagon2
+        weight: 1
+      - path: WarWagon3
+        weight: 1
+      - path: WarWagon4
+        weight: 1
+      - path: WarWagon5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 580
+      lastFrame: 625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/body
+        weight: 1
+      - path: m3bone_root/body/Chest Ref
+        weight: 1
+      - path: m3bone_root/body/Cylinder10
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Cylinder01
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane02
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane10
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane11
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane12
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane13
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane14
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Plane01
+        weight: 1
+      - path: m3bone_root/body/Cylinder21e
+        weight: 1
+      - path: m3bone_root/body/Cylinder34
+        weight: 1
+      - path: m3bone_root/body/Cylinder38
+        weight: 1
+      - path: m3bone_root/body/Cylinder42
+        weight: 1
+      - path: m3bone_root/body/Cylinder43
+        weight: 1
+      - path: m3bone_root/body/Head Ref
+        weight: 1
+      - path: m3bone_root/body/Mesh02
+        weight: 1
+      - path: m3bone_root/body/Mesh06
+        weight: 1
+      - path: m3bone_root/body/Mesh08
+        weight: 1
+      - path: m3bone_root/body/Mesh11
+        weight: 1
+      - path: m3bone_root/body/Mesh12
+        weight: 1
+      - path: m3bone_root/body/Mesh13
+        weight: 1
+      - path: m3bone_root/body/Mesh14
+        weight: 1
+      - path: m3bone_root/body/Mesh16
+        weight: 1
+      - path: m3bone_root/body/Mesh19
+        weight: 1
+      - path: m3bone_root/body/Plane04
+        weight: 1
+      - path: m3bone_root/body/Sprite First Ref
+        weight: 1
+      - path: m3bone_root/body/Sprite Second Ref
+        weight: 1
+      - path: m3bone_root/body/Sprite Third Ref
+        weight: 1
+      - path: m3bone_root/Foot Left Ref
+        weight: 1
+      - path: 'm3bone_root/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/glowboom
+        weight: 1
+      - path: m3bone_root/glowboom01
+        weight: 1
+      - path: m3bone_root/glowboom03
+        weight: 1
+      - path: m3bone_root/glowboom05
+        weight: 1
+      - path: m3bone_root/glowboom06
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/Plane07
+        weight: 1
+      - path: m3bone_root/Plane09
+        weight: 1
+      - path: m3bone_root/teamglow
+        weight: 1
+      - path: m3bone_root/teamglow/WarWagon6
+        weight: 1
+      - path: WarWagon1
+        weight: 1
+      - path: WarWagon2
+        weight: 1
+      - path: WarWagon3
+        weight: 1
+      - path: WarWagon4
+        weight: 1
+      - path: WarWagon5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 3721
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/body
+        weight: 1
+      - path: m3bone_root/body/Chest Ref
+        weight: 1
+      - path: m3bone_root/body/Cylinder10
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Cylinder01
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane02
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane10
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane11
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane12
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane13
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Cylinder10e/Plane14
+        weight: 1
+      - path: m3bone_root/body/Cylinder10/Plane01
+        weight: 1
+      - path: m3bone_root/body/Cylinder21e
+        weight: 1
+      - path: m3bone_root/body/Cylinder34
+        weight: 1
+      - path: m3bone_root/body/Cylinder38
+        weight: 1
+      - path: m3bone_root/body/Cylinder42
+        weight: 1
+      - path: m3bone_root/body/Cylinder43
+        weight: 1
+      - path: m3bone_root/body/Head Ref
+        weight: 1
+      - path: m3bone_root/body/Mesh02
+        weight: 1
+      - path: m3bone_root/body/Mesh06
+        weight: 1
+      - path: m3bone_root/body/Mesh08
+        weight: 1
+      - path: m3bone_root/body/Mesh11
+        weight: 1
+      - path: m3bone_root/body/Mesh12
+        weight: 1
+      - path: m3bone_root/body/Mesh13
+        weight: 1
+      - path: m3bone_root/body/Mesh14
+        weight: 1
+      - path: m3bone_root/body/Mesh16
+        weight: 1
+      - path: m3bone_root/body/Mesh19
+        weight: 1
+      - path: m3bone_root/body/Plane04
+        weight: 1
+      - path: m3bone_root/body/Sprite First Ref
+        weight: 1
+      - path: m3bone_root/body/Sprite Second Ref
+        weight: 1
+      - path: m3bone_root/body/Sprite Third Ref
+        weight: 1
+      - path: m3bone_root/Foot Left Ref
+        weight: 1
+      - path: 'm3bone_root/Foot Right Ref '
+        weight: 1
+      - path: m3bone_root/glowboom
+        weight: 1
+      - path: m3bone_root/glowboom01
+        weight: 1
+      - path: m3bone_root/glowboom03
+        weight: 1
+      - path: m3bone_root/glowboom05
+        weight: 1
+      - path: m3bone_root/glowboom06
+        weight: 1
+      - path: 'm3bone_root/Origin Ref '
+        weight: 1
+      - path: 'm3bone_root/OverHead Ref '
+        weight: 1
+      - path: m3bone_root/Plane07
+        weight: 1
+      - path: m3bone_root/Plane09
+        weight: 1
+      - path: m3bone_root/teamglow
+        weight: 1
+      - path: m3bone_root/teamglow/WarWagon6
+        weight: 1
+      - path: WarWagon1
+        weight: 1
+      - path: WarWagon2
+        weight: 1
+      - path: WarWagon3
+        weight: 1
+      - path: WarWagon4
+        weight: 1
+      - path: WarWagon5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

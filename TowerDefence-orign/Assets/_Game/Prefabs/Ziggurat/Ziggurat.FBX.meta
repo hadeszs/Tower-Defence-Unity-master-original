@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 6ab5a61fe0942714fb0d87bca342a9f5
+timeCreated: 1446917433
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Background
+    100004: BirthLink
+    100006: GemDummy02
+    100008: GemUpgradeDummy
+    100010: m3bone_root
+    100012: Mesh02
+    100014: Mesh04
+    100016: Mesh05
+    100018: Mesh06
+    100020: Mesh07
+    100022: Mesh08
+    100024: Mesh21
+    100026: Mesh22
+    100028: Mesh23
+    100030: Mesh24
+    100032: Mesh25
+    100034: Mesh26
+    100036: Object07
+    100038: Object11
+    100040: Object12
+    100042: Object13
+    100044: Object14
+    100046: Object15
+    100048: origin ref
+    100050: overhead ref
+    100052: Plane03
+    100054: Plane04
+    100056: Plane05
+    100058: Plane06
+    100060: Spirit
+    100062: Spirit1
+    100064: Spirit2
+    100066: Spirit3
+    100068: sprite first ref
+    100070: sprite RallyPoint Ref
+    100072: sprite second ref
+    100074: sprite third ref
+    100076: TheGem
+    100078: TheUpgradeGem
+    100080: //RootNode
+    100082: Ziggurat1
+    100084: Ziggurat2
+    100086: Ziggurat3
+    100088: Ziggurat4
+    100090: Ziggurat5
+    100092: Ziggurat6
+    100094: Ziggurat7
+    400000: _M3_Anim_Data
+    400002: Background
+    400004: BirthLink
+    400006: GemDummy02
+    400008: GemUpgradeDummy
+    400010: m3bone_root
+    400012: Mesh02
+    400014: Mesh04
+    400016: Mesh05
+    400018: Mesh06
+    400020: Mesh07
+    400022: Mesh08
+    400024: Mesh21
+    400026: Mesh22
+    400028: Mesh23
+    400030: Mesh24
+    400032: Mesh25
+    400034: Mesh26
+    400036: Object07
+    400038: Object11
+    400040: Object12
+    400042: Object13
+    400044: Object14
+    400046: Object15
+    400048: origin ref
+    400050: overhead ref
+    400052: Plane03
+    400054: Plane04
+    400056: Plane05
+    400058: Plane06
+    400060: Spirit
+    400062: Spirit1
+    400064: Spirit2
+    400066: Spirit3
+    400068: sprite first ref
+    400070: sprite RallyPoint Ref
+    400072: sprite second ref
+    400074: sprite third ref
+    400076: TheGem
+    400078: TheUpgradeGem
+    400080: //RootNode
+    400082: Ziggurat1
+    400084: Ziggurat2
+    400086: Ziggurat3
+    400088: Ziggurat4
+    400090: Ziggurat5
+    400092: Ziggurat6
+    400094: Ziggurat7
+    2300000: Ziggurat3
+    2300002: Ziggurat4
+    2300004: Ziggurat6
+    2300006: Ziggurat7
+    3300000: Ziggurat3
+    3300002: Ziggurat4
+    3300004: Ziggurat6
+    3300006: Ziggurat7
+    4300000: Ziggurat1
+    4300002: Ziggurat2
+    4300004: Ziggurat5
+    4300006: Ziggurat6
+    4300008: Ziggurat3
+    4300010: Ziggurat4
+    4300012: Ziggurat7
+    7400000: Take 001
+    7400002: Take 0010
+    9500000: //RootNode
+    13700000: Ziggurat1
+    13700002: Ziggurat2
+    13700004: Ziggurat5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Background
+        weight: 1
+      - path: m3bone_root/Background/Ziggurat6
+        weight: 1
+      - path: m3bone_root/BirthLink
+        weight: 1
+      - path: m3bone_root/GemDummy02
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Plane03
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Plane05
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Ziggurat4
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy/TheUpgradeGem
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy/TheUpgradeGem/Ziggurat7
+        weight: 1
+      - path: m3bone_root/Mesh02
+        weight: 1
+      - path: m3bone_root/Mesh04
+        weight: 1
+      - path: m3bone_root/Mesh05
+        weight: 1
+      - path: m3bone_root/Mesh06
+        weight: 1
+      - path: m3bone_root/Mesh07
+        weight: 1
+      - path: m3bone_root/Mesh08
+        weight: 1
+      - path: m3bone_root/Mesh21
+        weight: 1
+      - path: m3bone_root/Mesh22
+        weight: 1
+      - path: m3bone_root/Mesh23
+        weight: 1
+      - path: m3bone_root/Mesh24
+        weight: 1
+      - path: m3bone_root/Mesh25
+        weight: 1
+      - path: m3bone_root/Mesh26
+        weight: 1
+      - path: m3bone_root/Object07
+        weight: 1
+      - path: m3bone_root/Object11
+        weight: 1
+      - path: m3bone_root/Object12
+        weight: 1
+      - path: m3bone_root/Object13
+        weight: 1
+      - path: m3bone_root/Object14
+        weight: 1
+      - path: m3bone_root/Object15
+        weight: 1
+      - path: m3bone_root/origin ref
+        weight: 1
+      - path: m3bone_root/overhead ref
+        weight: 1
+      - path: m3bone_root/Plane04
+        weight: 1
+      - path: m3bone_root/Plane04/Ziggurat3
+        weight: 1
+      - path: m3bone_root/Plane06
+        weight: 1
+      - path: m3bone_root/Spirit
+        weight: 1
+      - path: m3bone_root/Spirit/Spirit3
+        weight: 1
+      - path: m3bone_root/Spirit1
+        weight: 1
+      - path: m3bone_root/Spirit1/Spirit2
+        weight: 1
+      - path: m3bone_root/sprite first ref
+        weight: 1
+      - path: m3bone_root/sprite RallyPoint Ref
+        weight: 1
+      - path: m3bone_root/sprite second ref
+        weight: 1
+      - path: m3bone_root/sprite third ref
+        weight: 1
+      - path: Ziggurat1
+        weight: 1
+      - path: Ziggurat2
+        weight: 1
+      - path: Ziggurat5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 45000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Background
+        weight: 1
+      - path: m3bone_root/Background/Ziggurat6
+        weight: 1
+      - path: m3bone_root/BirthLink
+        weight: 1
+      - path: m3bone_root/GemDummy02
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Plane03
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Plane05
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Ziggurat4
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy/TheUpgradeGem
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy/TheUpgradeGem/Ziggurat7
+        weight: 1
+      - path: m3bone_root/Mesh02
+        weight: 1
+      - path: m3bone_root/Mesh04
+        weight: 1
+      - path: m3bone_root/Mesh05
+        weight: 1
+      - path: m3bone_root/Mesh06
+        weight: 1
+      - path: m3bone_root/Mesh07
+        weight: 1
+      - path: m3bone_root/Mesh08
+        weight: 1
+      - path: m3bone_root/Mesh21
+        weight: 1
+      - path: m3bone_root/Mesh22
+        weight: 1
+      - path: m3bone_root/Mesh23
+        weight: 1
+      - path: m3bone_root/Mesh24
+        weight: 1
+      - path: m3bone_root/Mesh25
+        weight: 1
+      - path: m3bone_root/Mesh26
+        weight: 1
+      - path: m3bone_root/Object07
+        weight: 1
+      - path: m3bone_root/Object11
+        weight: 1
+      - path: m3bone_root/Object12
+        weight: 1
+      - path: m3bone_root/Object13
+        weight: 1
+      - path: m3bone_root/Object14
+        weight: 1
+      - path: m3bone_root/Object15
+        weight: 1
+      - path: m3bone_root/origin ref
+        weight: 1
+      - path: m3bone_root/overhead ref
+        weight: 1
+      - path: m3bone_root/Plane04
+        weight: 1
+      - path: m3bone_root/Plane04/Ziggurat3
+        weight: 1
+      - path: m3bone_root/Plane06
+        weight: 1
+      - path: m3bone_root/Spirit
+        weight: 1
+      - path: m3bone_root/Spirit/Spirit3
+        weight: 1
+      - path: m3bone_root/Spirit1
+        weight: 1
+      - path: m3bone_root/Spirit1/Spirit2
+        weight: 1
+      - path: m3bone_root/sprite first ref
+        weight: 1
+      - path: m3bone_root/sprite RallyPoint Ref
+        weight: 1
+      - path: m3bone_root/sprite second ref
+        weight: 1
+      - path: m3bone_root/sprite third ref
+        weight: 1
+      - path: Ziggurat1
+        weight: 1
+      - path: Ziggurat2
+        weight: 1
+      - path: Ziggurat5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

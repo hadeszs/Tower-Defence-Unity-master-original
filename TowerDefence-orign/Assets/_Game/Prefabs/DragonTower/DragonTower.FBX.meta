@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: c51876407ad634d4f91c74e4a9e2c228
+timeCreated: 1446917437
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Background
+    100004: BirthLink
+    100006: Bone Frostwyrm
+    100008: Bone18
+    100010: Bone19
+    100012: Bone20
+    100014: Bone21
+    100016: Bone22
+    100018: Bone23
+    100020: Bone24
+    100022: Bone25
+    100024: Bone_Body
+    100026: Bone_F Thigh
+    100028: Bone_Front
+    100030: Bone_Head
+    100032: Bone_Neck
+    100034: Bone_ont L Thigh
+    100036: 'Bone_ont Left Foot '
+    100038: Bone_ont Left Leg
+    100040: 'Bone_ont R Foot '
+    100042: Bone_ont R Leg
+    100044: DragonBuilding1
+    100046: DragonBuilding2
+    100048: DragonBuilding3
+    100050: DragonBuilding4
+    100052: DragonNestTop
+    100054: //RootNode
+    100056: Face
+    100058: GemDummy02
+    100060: GemUpgradeDummy
+    100062: Jaw
+    100064: m3bone_root
+    100066: m3bone_root 1
+    100068: Mesh02
+    100070: Mesh02 1
+    100072: Mesh03
+    100074: Mesh04
+    100076: Mesh04 1
+    100078: Mesh05
+    100080: Mesh05 1
+    100082: Mesh06
+    100084: Mesh07
+    100086: Mesh08
+    100088: Mesh21
+    100090: Mesh22
+    100092: Mesh23
+    100094: Mesh24
+    100096: Mesh25
+    100098: Mesh26
+    100100: Object02
+    100102: Object03
+    100104: Object04
+    100106: Object05
+    100108: Object06
+    100110: Object07
+    100112: Object07 1
+    100114: Object11
+    100116: Object12
+    100118: Object13
+    100120: Object14
+    100122: Object15
+    100124: origin ref
+    100126: origin ref 1
+    100128: overhead ref
+    100130: overhead ref 1
+    100132: Plane01
+    100134: Plane02
+    100136: Plane03
+    100138: Plane03 1
+    100140: Plane04
+    100142: Plane04 1
+    100144: Plane05
+    100146: Plane05 1
+    100148: Plane06
+    100150: Spirit
+    100152: Spirit1
+    100154: Spirit2
+    100156: Spirit3
+    100158: sprite first ref
+    100160: sprite first ref 1
+    100162: sprite fourth ref
+    100164: Sprite Medium Ref
+    100166: sprite RallyPoint Ref
+    100168: sprite RallyPoint Ref 1
+    100170: sprite second ref
+    100172: sprite second ref 1
+    100174: sprite third ref
+    100176: sprite third ref 1
+    100178: TheGem
+    100180: TheUpgradeGem
+    100182: WingL_02
+    100184: WingL_07
+    100186: WingL_08
+    100188: WingL_09
+    100190: WingR_01
+    100192: WingR_04
+    100194: WingR_05
+    100196: WingR_06
+    100198: Ziggurat1
+    100200: Ziggurat2
+    100202: Ziggurat3
+    100204: Ziggurat4
+    100206: Ziggurat5
+    100208: Ziggurat6
+    100210: Ziggurat7
+    400000: _M3_Anim_Data
+    400002: Background
+    400004: BirthLink
+    400006: Bone Frostwyrm
+    400008: Bone18
+    400010: Bone19
+    400012: Bone20
+    400014: Bone21
+    400016: Bone22
+    400018: Bone23
+    400020: Bone24
+    400022: Bone25
+    400024: Bone_Body
+    400026: Bone_F Thigh
+    400028: Bone_Front
+    400030: Bone_Head
+    400032: Bone_Neck
+    400034: Bone_ont L Thigh
+    400036: 'Bone_ont Left Foot '
+    400038: Bone_ont Left Leg
+    400040: 'Bone_ont R Foot '
+    400042: Bone_ont R Leg
+    400044: DragonBuilding1
+    400046: DragonBuilding2
+    400048: DragonBuilding3
+    400050: DragonBuilding4
+    400052: DragonNestTop
+    400054: //RootNode
+    400056: Face
+    400058: GemDummy02
+    400060: GemUpgradeDummy
+    400062: Jaw
+    400064: m3bone_root
+    400066: m3bone_root 1
+    400068: Mesh02
+    400070: Mesh02 1
+    400072: Mesh03
+    400074: Mesh04
+    400076: Mesh04 1
+    400078: Mesh05
+    400080: Mesh05 1
+    400082: Mesh06
+    400084: Mesh07
+    400086: Mesh08
+    400088: Mesh21
+    400090: Mesh22
+    400092: Mesh23
+    400094: Mesh24
+    400096: Mesh25
+    400098: Mesh26
+    400100: Object02
+    400102: Object03
+    400104: Object04
+    400106: Object05
+    400108: Object06
+    400110: Object07
+    400112: Object07 1
+    400114: Object11
+    400116: Object12
+    400118: Object13
+    400120: Object14
+    400122: Object15
+    400124: origin ref
+    400126: origin ref 1
+    400128: overhead ref
+    400130: overhead ref 1
+    400132: Plane01
+    400134: Plane02
+    400136: Plane03
+    400138: Plane03 1
+    400140: Plane04
+    400142: Plane04 1
+    400144: Plane05
+    400146: Plane05 1
+    400148: Plane06
+    400150: Spirit
+    400152: Spirit1
+    400154: Spirit2
+    400156: Spirit3
+    400158: sprite first ref
+    400160: sprite first ref 1
+    400162: sprite fourth ref
+    400164: Sprite Medium Ref
+    400166: sprite RallyPoint Ref
+    400168: sprite RallyPoint Ref 1
+    400170: sprite second ref
+    400172: sprite second ref 1
+    400174: sprite third ref
+    400176: sprite third ref 1
+    400178: TheGem
+    400180: TheUpgradeGem
+    400182: WingL_02
+    400184: WingL_07
+    400186: WingL_08
+    400188: WingL_09
+    400190: WingR_01
+    400192: WingR_04
+    400194: WingR_05
+    400196: WingR_06
+    400198: Ziggurat1
+    400200: Ziggurat2
+    400202: Ziggurat3
+    400204: Ziggurat4
+    400206: Ziggurat5
+    400208: Ziggurat6
+    400210: Ziggurat7
+    2300000: DragonBuilding4
+    2300002: Ziggurat3
+    2300004: Ziggurat4
+    2300006: Ziggurat6
+    2300008: Ziggurat7
+    3300000: DragonBuilding4
+    3300002: Ziggurat3
+    3300004: Ziggurat4
+    3300006: Ziggurat6
+    3300008: Ziggurat7
+    4300000: Ziggurat1
+    4300002: Ziggurat2
+    4300004: Ziggurat5
+    4300006: Ziggurat6
+    4300008: Ziggurat3
+    4300010: Ziggurat4
+    4300012: Ziggurat7
+    4300014: DragonBuilding1
+    4300016: DragonBuilding2
+    4300018: DragonBuilding3
+    4300020: DragonBuilding4
+    7400000: Take 001
+    7400002: Take 0010
+    9500000: //RootNode
+    13700000: DragonBuilding1
+    13700002: DragonBuilding2
+    13700004: DragonBuilding3
+    13700006: Ziggurat1
+    13700008: Ziggurat2
+    13700010: Ziggurat5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1318
+      lastFrame: 1419
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: DragonBuilding1
+        weight: 1
+      - path: DragonBuilding2
+        weight: 1
+      - path: DragonBuilding3
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Background
+        weight: 1
+      - path: m3bone_root/Background/Ziggurat6
+        weight: 1
+      - path: m3bone_root/BirthLink
+        weight: 1
+      - path: m3bone_root/GemDummy02
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Plane03
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Plane05 1
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Ziggurat4
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy/TheUpgradeGem
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy/TheUpgradeGem/Ziggurat7
+        weight: 1
+      - path: m3bone_root/Mesh02
+        weight: 1
+      - path: m3bone_root/Mesh04
+        weight: 1
+      - path: m3bone_root/Mesh05
+        weight: 1
+      - path: m3bone_root/Mesh06
+        weight: 1
+      - path: m3bone_root/Mesh07
+        weight: 1
+      - path: m3bone_root/Mesh08
+        weight: 1
+      - path: m3bone_root/Mesh21
+        weight: 1
+      - path: m3bone_root/Mesh22
+        weight: 1
+      - path: m3bone_root/Mesh23
+        weight: 1
+      - path: m3bone_root/Mesh24
+        weight: 1
+      - path: m3bone_root/Mesh25
+        weight: 1
+      - path: m3bone_root/Mesh26
+        weight: 1
+      - path: m3bone_root/Object07
+        weight: 1
+      - path: m3bone_root/Object11
+        weight: 1
+      - path: m3bone_root/Object12
+        weight: 1
+      - path: m3bone_root/Object13
+        weight: 1
+      - path: m3bone_root/Object14
+        weight: 1
+      - path: m3bone_root/Object15
+        weight: 1
+      - path: m3bone_root/origin ref
+        weight: 1
+      - path: m3bone_root/overhead ref
+        weight: 1
+      - path: m3bone_root/Plane04
+        weight: 1
+      - path: m3bone_root/Plane04/Ziggurat3
+        weight: 1
+      - path: m3bone_root/Plane06
+        weight: 1
+      - path: m3bone_root/Spirit
+        weight: 1
+      - path: m3bone_root/Spirit/Spirit3
+        weight: 1
+      - path: m3bone_root/Spirit1
+        weight: 1
+      - path: m3bone_root/Spirit1/Spirit2
+        weight: 1
+      - path: m3bone_root/sprite first ref
+        weight: 1
+      - path: m3bone_root/sprite RallyPoint Ref
+        weight: 1
+      - path: m3bone_root/sprite second ref
+        weight: 1
+      - path: m3bone_root/sprite third ref
+        weight: 1
+      - path: m3bone_root 1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh/Bone_ont R Leg
+        weight: 1
+      - path: 'm3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh/Bone_ont R Leg/Bone_ont R Foot '
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh/Bone_ont R Leg/Bone_ont R Foot /Object02
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh/Bone_ont R Leg/Object03
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh/Object04
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Face
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Face/Plane01
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Face/Plane02
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Face/Plane03
+          1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Face/Plane04
+          1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Jaw
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Mesh05
+          1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh/Bone_ont Left Leg
+        weight: 1
+      - path: 'm3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh/Bone_ont Left Leg/Bone_ont Left Foot '
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh/Bone_ont Left Leg/Bone_ont Left Foot /Mesh04 1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh/Bone_ont Left Leg/Mesh02 1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh/Mesh03
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19/Bone20
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19/Bone20/Bone24
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19/Bone20/Bone24/WingR_05
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19/Bone20/WingR_01
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19/WingR_04
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/WingR_06
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22/Bone23
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22/Bone23/Bone25
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22/Bone23/Bone25/WingL_09
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22/Bone23/WingL_02
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22/WingL_07
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/WingL_08
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Object07 1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Object07 1/Object06
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Object07 1/Object06/Object05
+        weight: 1
+      - path: m3bone_root 1/origin ref 1
+        weight: 1
+      - path: m3bone_root 1/overhead ref 1
+        weight: 1
+      - path: m3bone_root 1/Plane05
+        weight: 1
+      - path: m3bone_root 1/Plane05/DragonBuilding4
+        weight: 1
+      - path: m3bone_root 1/sprite first ref 1
+        weight: 1
+      - path: m3bone_root 1/sprite fourth ref
+        weight: 1
+      - path: m3bone_root 1/Sprite Medium Ref
+        weight: 1
+      - path: m3bone_root 1/sprite RallyPoint Ref 1
+        weight: 1
+      - path: m3bone_root 1/sprite second ref 1
+        weight: 1
+      - path: m3bone_root 1/sprite third ref 1
+        weight: 1
+      - path: Ziggurat1
+        weight: 1
+      - path: Ziggurat2
+        weight: 1
+      - path: Ziggurat5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10708
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: DragonBuilding1
+        weight: 1
+      - path: DragonBuilding2
+        weight: 1
+      - path: DragonBuilding3
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Background
+        weight: 1
+      - path: m3bone_root/Background/Ziggurat6
+        weight: 1
+      - path: m3bone_root/BirthLink
+        weight: 1
+      - path: m3bone_root/GemDummy02
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Plane03
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Plane05 1
+        weight: 1
+      - path: m3bone_root/GemDummy02/TheGem/Ziggurat4
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy/TheUpgradeGem
+        weight: 1
+      - path: m3bone_root/GemUpgradeDummy/TheUpgradeGem/Ziggurat7
+        weight: 1
+      - path: m3bone_root/Mesh02
+        weight: 1
+      - path: m3bone_root/Mesh04
+        weight: 1
+      - path: m3bone_root/Mesh05
+        weight: 1
+      - path: m3bone_root/Mesh06
+        weight: 1
+      - path: m3bone_root/Mesh07
+        weight: 1
+      - path: m3bone_root/Mesh08
+        weight: 1
+      - path: m3bone_root/Mesh21
+        weight: 1
+      - path: m3bone_root/Mesh22
+        weight: 1
+      - path: m3bone_root/Mesh23
+        weight: 1
+      - path: m3bone_root/Mesh24
+        weight: 1
+      - path: m3bone_root/Mesh25
+        weight: 1
+      - path: m3bone_root/Mesh26
+        weight: 1
+      - path: m3bone_root/Object07
+        weight: 1
+      - path: m3bone_root/Object11
+        weight: 1
+      - path: m3bone_root/Object12
+        weight: 1
+      - path: m3bone_root/Object13
+        weight: 1
+      - path: m3bone_root/Object14
+        weight: 1
+      - path: m3bone_root/Object15
+        weight: 1
+      - path: m3bone_root/origin ref
+        weight: 1
+      - path: m3bone_root/overhead ref
+        weight: 1
+      - path: m3bone_root/Plane04
+        weight: 1
+      - path: m3bone_root/Plane04/Ziggurat3
+        weight: 1
+      - path: m3bone_root/Plane06
+        weight: 1
+      - path: m3bone_root/Spirit
+        weight: 1
+      - path: m3bone_root/Spirit/Spirit3
+        weight: 1
+      - path: m3bone_root/Spirit1
+        weight: 1
+      - path: m3bone_root/Spirit1/Spirit2
+        weight: 1
+      - path: m3bone_root/sprite first ref
+        weight: 1
+      - path: m3bone_root/sprite RallyPoint Ref
+        weight: 1
+      - path: m3bone_root/sprite second ref
+        weight: 1
+      - path: m3bone_root/sprite third ref
+        weight: 1
+      - path: m3bone_root 1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh/Bone_ont R Leg
+        weight: 1
+      - path: 'm3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh/Bone_ont R Leg/Bone_ont R Foot '
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh/Bone_ont R Leg/Bone_ont R Foot /Object02
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh/Bone_ont R Leg/Object03
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_F
+          Thigh/Object04
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Face
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Face/Plane01
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Face/Plane02
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Face/Plane03
+          1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Face/Plane04
+          1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Bone_Head/Jaw
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_Neck/Mesh05
+          1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh/Bone_ont Left Leg
+        weight: 1
+      - path: 'm3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh/Bone_ont Left Leg/Bone_ont Left Foot '
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh/Bone_ont Left Leg/Bone_ont Left Foot /Mesh04 1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh/Bone_ont Left Leg/Mesh02 1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone Frostwyrm/Bone_Body/Bone_Front/Bone_ont
+          L Thigh/Mesh03
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19/Bone20
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19/Bone20/Bone24
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19/Bone20/Bone24/WingR_05
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19/Bone20/WingR_01
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/Bone19/WingR_04
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone18/WingR_06
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22/Bone23
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22/Bone23/Bone25
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22/Bone23/Bone25/WingL_09
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22/Bone23/WingL_02
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/Bone22/WingL_07
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Bone21/WingL_08
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Object07 1
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Object07 1/Object06
+        weight: 1
+      - path: m3bone_root 1/DragonNestTop/Object07 1/Object06/Object05
+        weight: 1
+      - path: m3bone_root 1/origin ref 1
+        weight: 1
+      - path: m3bone_root 1/overhead ref 1
+        weight: 1
+      - path: m3bone_root 1/Plane05
+        weight: 1
+      - path: m3bone_root 1/Plane05/DragonBuilding4
+        weight: 1
+      - path: m3bone_root 1/sprite first ref 1
+        weight: 1
+      - path: m3bone_root 1/sprite fourth ref
+        weight: 1
+      - path: m3bone_root 1/Sprite Medium Ref
+        weight: 1
+      - path: m3bone_root 1/sprite RallyPoint Ref 1
+        weight: 1
+      - path: m3bone_root 1/sprite second ref 1
+        weight: 1
+      - path: m3bone_root 1/sprite third ref 1
+        weight: 1
+      - path: Ziggurat1
+        weight: 1
+      - path: Ziggurat2
+        weight: 1
+      - path: Ziggurat5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
